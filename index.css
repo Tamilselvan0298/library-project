@@ -1,0 +1,25 @@
+body{
+    background-image: url(image/l5.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.admin{
+    position: relative;
+    left: 400px;
+    top:200px;
+    width: 400px;
+    height: 300px;
+    border-style: solid;
+    border-width: 0.1;
+    border-color: none;
+}
+.admin:hover
+{transform:scale(1.2);}
+#email
+{width: 300px;}
+#password
+{width: 300px;}
+h1{
+    color: black;
+    background-color: crimson;
+}   
